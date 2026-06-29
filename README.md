@@ -23,6 +23,7 @@ _The project was developed to understand how the business has performed over sev
 
 ---
 <h2><a class="anchor" id="Bannner"></a>Bannner</h2>
+![image alt] (https://github.com/kavitakamat21/Global-Electronic-Sales-Analysis/blob/21e8e3243ce08f2b33197b47f3ac0f350c64915e/Banner.png)
 
 
 
