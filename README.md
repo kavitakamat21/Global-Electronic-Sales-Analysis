@@ -45,19 +45,19 @@ Although the company generated $55.8 Million in total revenue over multiple year
 <h2><a class="anchor" id="project Objective"></a>🎯 Project Objectives</h2>
 ✔️ The project was designed with the following objectives:
 
-💡Sales Analysis
+📉Sales Analysis
   - Analyze overall business revenue
   - Evaluate yearly and quarterly sales performance
   - Monitor revenue growth trends
   - Identify seasonal sales patterns
       
-💡Product Analysis
+📦Product Analysis
   - Identify top-performing products
   - Find low-performing products
   - Analyze category-wise revenue contribution
   - Evaluate product profitability
 
-💡Sales Channel Analysis
+🛒Sales Channel Analysis
   - Compare Offline Store performance
   - Compare Online Store performance
   - Measure contribution of each sales channel
@@ -170,7 +170,7 @@ The primary objectives of the exploratory analysis were:
 - Identify business challenges and growth opportunities.
 
 ---
-<h2><a class="anchor" id="dashboard"></a> Dashboard</h2>
+<h2><a class="anchor" id="dashboard"></a> 📷Dashboard</h2>
  Dashboard Pages:-
  
  1.Executive Dashboard
@@ -179,8 +179,13 @@ The primary objectives of the exploratory analysis were:
  
  3.Customer Dashboard
 
+ <p align="center">
+<img src="https://github.com/kavitakamat21/Global-Electronic-Sales-Analysis/blob/main/Executive%20Page.png?raw=true" width="100%">
+</p>
+
+
 ---
-<h2><a class="anchor" id="kpis"></a> KPIs</h2>
+<h2><a class="anchor" id="kpis"></a>📌 KPIs</h2>
 
 From the dashboard:
 
@@ -191,7 +196,7 @@ From the dashboard:
 - Average Delivery Days = 4.5
 
 
-<h2><a class="anchor" id=" key-findings"></a>Key-findings</h2>
+<h2><a class="anchor" id=" key-findings"></a>💡Key-findings</h2>
 Major Insights :-
 
  - Revenue peaked during 2019
@@ -203,7 +208,7 @@ Major Insights :-
  - Delivery time improved
 
 ---
-<h2><a class="anchor" id=" final-recommendations"></a>final-recommendations</h2>
+<h2><a class="anchor" id=" final-recommendations"></a>🚀 final-recommendations</h2>
 Recommendations :-
 
 - Expand Online Sales
@@ -218,7 +223,7 @@ Recommendations :-
 
 
 ---
-<h2><a class="anchor" id=" author--contact"></a>Author-Contact</h2>
+<h2><a class="anchor" id=" author--contact"></a>👩‍💻 Author-Contact</h2>
  Kavita Kamat
 
 - 📧 Email: kavitakamat90@gmail.com 
