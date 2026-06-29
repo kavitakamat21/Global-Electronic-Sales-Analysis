@@ -223,7 +223,7 @@ Recommendations :-
 
 - 📧 Email: kavitakamat90@gmail.com 
 
-- 🔗 [LinkedIn]https://www.linkedin.com/in/kavita-kamat-6510a2299/https://www.linkedin.com/in/kavita-kamat-6510a2299/
+- 🔗 [LinkedIn] https://www.linkedin.com/in/kavita-kamat-6510a2299/
 
 
 
